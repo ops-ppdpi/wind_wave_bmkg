@@ -58,18 +58,18 @@ varname = {"hs","uwnd","vwnd"}
 
 # provide bmkg opendap credentials
 bmkg_host = "maritim.bmkg.go.id/opendap/ww3gfs"
-bmkg_user = "brol"
-bmkg_pass = "M4R1T1M_BROL"
+bmkg_user = "type_username"
+bmkg_pass = "type_password"
     
 # provide ftp sidik credentials
 sidik_host = "fs.bpol.net"
-sidik_user = "pjkadmin"
-sidik_pass = "sidik$pjk"
+sidik_user = "type_username"
+sidik_pass = "type_password"
 
 # provide ftp laut nusanara credentials
 aln_host = "118.97.27.118"
-aln_user = "lautnusantara"
-aln_pass = "ppdp14apps"
+aln_user = "type_username"
+aln_pass = "type_password"
 
 # data processing loop
 # ---------------
